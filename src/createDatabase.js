@@ -6,4 +6,4 @@ const refreshAll = async () => {
     // console.log(connection)
     await connection.insertMany(data)
 }
-refreshAll()
+refreshAll() 
